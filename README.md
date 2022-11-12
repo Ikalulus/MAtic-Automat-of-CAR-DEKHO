@@ -1,2 +1,2 @@
 # MAtic-Automat-of-CAR-DEKHO
-Lanjutan dari analisa card DEKHO part 1
+Lanjutan dari analisa CAR DEKHO part 1
